@@ -2,7 +2,7 @@
 
 <h2> Descrição </h2>
 <p>
-Sistema básico de lista de tarefas, desolvido para fixação de experiência com tecnologias Front-End. Visualize a página do 
+Sistema básico de lista de tarefas, desolvido para fixação de experiência com tecnologias Front-End. Visualize a página 
 <a href="https://filipegran.github.io/lista-de-tarefas/" a>Aqui<a/>.
 </p>
 
